@@ -1081,5 +1081,300 @@
       "个股研究",
       "美股"
     ]
+  },
+  {
+    "id": "cnfinancewatch",
+    "name": "华尔街观察Xtrader",
+    "nameEn": "@cnfinancewatch",
+    "region": "国内",
+    "type": "宏观分析",
+    "bio": "专注中美个股对比、周报及盘前研报汇总，信息量大，适合把握整体市场节奏和脉络",
+    "twitter": "https://x.com/cnfinancewatch",
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "中美个股对比研究",
+      "量化+大语言模型自动化决策",
+      "周报盘前研报系统跟踪"
+    ],
+    "masterpieces": [
+      {
+        "title": "@cnfinancewatch",
+        "type": "X账号",
+        "url": "https://x.com/cnfinancewatch"
+      }
+    ],
+    "tags": [
+      "量化",
+      "中美对比",
+      "X博主"
+    ]
+  },
+  {
+    "id": "lizannsonders",
+    "name": "Liz Ann Sonders",
+    "nameEn": "@LizAnnSonders",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "嘉信理财首席投资策略师，以宏观视角分析流动性与市场结构，图表清晰",
+    "twitter": "https://x.com/LizAnnSonders",
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "流动性决定市场结构",
+      "宏观数据驱动投资判断",
+      "市场周期与资产轮动"
+    ],
+    "masterpieces": [
+      {
+        "title": "@LizAnnSonders",
+        "type": "X账号",
+        "url": "https://x.com/LizAnnSonders"
+      }
+    ],
+    "tags": [
+      "宏观",
+      "流动性",
+      "X博主"
+    ]
+  },
+  {
+    "id": "bitteljulien",
+    "name": "Julien Bittel",
+    "nameEn": "@BittelJulien",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "关注全球宏观和资产配置，对流动性与风险资产联动有较多分析",
+    "twitter": "https://x.com/BittelJulien",
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "全球流动性与风险资产联动",
+      "宏观资产配置框架",
+      "跨资产趋势分析"
+    ],
+    "masterpieces": [
+      {
+        "title": "@BittelJulien",
+        "type": "X账号",
+        "url": "https://x.com/BittelJulien"
+      }
+    ],
+    "tags": [
+      "宏观",
+      "资产配置",
+      "X博主"
+    ]
+  },
+  {
+    "id": "lynaldencontact",
+    "name": "Lyn Alden",
+    "nameEn": "@LynAldenContact",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "长期跟踪货币、财政、能源、信用等框架，有助于理解各类资产背后的逻辑",
+    "twitter": "https://x.com/LynAldenContact",
+    "youtube": null,
+    "blog": "https://www.lynalden.com",
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "货币财政框架是理解市场的基础",
+      "能源与信用周期驱动资产价格",
+      "长期结构性宏观分析"
+    ],
+    "masterpieces": [
+      {
+        "title": "Broken Money",
+        "type": "书籍",
+        "url": null
+      },
+      {
+        "title": "@LynAldenContact",
+        "type": "X账号",
+        "url": "https://x.com/LynAldenContact"
+      }
+    ],
+    "tags": [
+      "货币",
+      "财政",
+      "宏观",
+      "X博主"
+    ]
+  },
+  {
+    "id": "biancoresearch",
+    "name": "Jim Bianco",
+    "nameEn": "@biancoresearch",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "在利率、债市、政策预期等方面提供框架梳理，传统宏观分析风格，可校准市场叙事",
+    "twitter": "https://x.com/biancoresearch",
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "利率与债市是定价锚",
+      "美联储政策预期决定短期走势",
+      "传统宏观框架校准市场叙事"
+    ],
+    "masterpieces": [
+      {
+        "title": "@biancoresearch",
+        "type": "X账号",
+        "url": "https://x.com/biancoresearch"
+      }
+    ],
+    "tags": [
+      "利率",
+      "债市",
+      "宏观",
+      "X博主"
+    ]
+  },
+  {
+    "id": "josephwang-fed",
+    "name": "Joseph Wang",
+    "nameEn": "@josephwang",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "前美联储交易员，深入分析美联储、准备金、美元流动性等金融系统细节",
+    "twitter": "https://x.com/josephwang",
+    "youtube": null,
+    "blog": "https://fedguy.com",
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "准备金体系决定美元流动性",
+      "美联储操作细节影响市场",
+      "流动性是理解一切的基础"
+    ],
+    "masterpieces": [
+      {
+        "title": "Central Banking 101",
+        "type": "书籍",
+        "url": null
+      },
+      {
+        "title": "Fed Guy博客",
+        "type": "博客",
+        "url": "https://fedguy.com"
+      }
+    ],
+    "tags": [
+      "美联储",
+      "流动性",
+      "前央行交易员",
+      "X博主"
+    ]
+  },
+  {
+    "id": "dylan522p",
+    "name": "Dylan Patel",
+    "nameEn": "@dylan522p",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "覆盖AI基础设施、GPU、云厂商资本开支、HBM/存储等领域，半导体和AI基建首选参考",
+    "twitter": "https://x.com/dylan522p",
+    "youtube": null,
+    "blog": "https://semianalysis.com",
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI基建资本开支决定科技股走势",
+      "GPU/HBM供需是半导体核心变量",
+      "云厂商Capex是AI产业晴雨表"
+    ],
+    "masterpieces": [
+      {
+        "title": "SemiAnalysis",
+        "type": "博客",
+        "url": "https://semianalysis.com"
+      }
+    ],
+    "tags": [
+      "AI基建",
+      "半导体",
+      "GPU",
+      "X博主"
+    ]
+  },
+  {
+    "id": "stratechery",
+    "name": "Ben Thompson",
+    "nameEn": "@stratechery",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "对科技股尤其是平台型公司、AI商业模式及产业结构变化有系统分析，适合长期关注",
+    "twitter": "https://x.com/stratechery",
+    "youtube": null,
+    "blog": "https://stratechery.com",
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "平台聚合理论解释科技公司护城河",
+      "AI重塑商业模式和产业结构",
+      "科技趋势的系统性分析框架"
+    ],
+    "masterpieces": [
+      {
+        "title": "Stratechery",
+        "type": "博客/付费通讯",
+        "url": "https://stratechery.com"
+      }
+    ],
+    "tags": [
+      "科技股",
+      "AI",
+      "平台经济",
+      "X博主"
+    ]
+  },
+  {
+    "id": "byrnehobart",
+    "name": "Byrne Hobart",
+    "nameEn": "@ByrneHobart",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "将金融、科技与商业模式结合分析，框架感强，适合系统思考或做内容的人参考",
+    "twitter": "https://x.com/ByrneHobart",
+    "youtube": null,
+    "blog": "https://thediff.co",
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "金融与科技的交叉分析框架",
+      "商业模式决定长期股价",
+      "系统性思考优于点状信息"
+    ],
+    "masterpieces": [
+      {
+        "title": "The Diff",
+        "type": "通讯",
+        "url": "https://thediff.co"
+      }
+    ],
+    "tags": [
+      "金融科技",
+      "商业模式",
+      "系统思考",
+      "X博主"
+    ]
   }
 ]
