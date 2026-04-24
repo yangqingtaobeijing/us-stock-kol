@@ -1,0 +1,793 @@
+[
+  {
+    "id": "wb_001",
+    "name": "Warren Buffett",
+    "nameEn": "Warren Buffett",
+    "region": "国外",
+    "type": "投资大师",
+    "bio": "伯克希尔哈撒韦公司CEO，全球最著名的价值投资者，2013年开始活跃于Twitter",
+    "twitter": "https://twitter.com/WarrenBuffett",
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "长期价值投资，关注企业内在价值",
+      "优秀企业以合理价格长期持有",
+      "避免频繁交易和市场投机"
+    ],
+    "masterpieces": [
+      {
+        "title": "伯克希尔哈撒韦年度股东信",
+        "type": "文章",
+        "url": "https://www.berkshirehathaway.com"
+      }
+    ],
+    "tags": ["价值投资", "长期持有", "基本面分析"]
+  },
+  {
+    "id": "cm_001",
+    "name": "Charlie Munger",
+    "nameEn": "Charlie Munger",
+    "region": "国外",
+    "type": "投资大师",
+    "bio": "伯克希尔哈撒韦副董事长，沃伦·巴菲特的长期合作伙伴，已于2023年11月去世，享年99岁",
+    "twitter": null,
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "多元思维模型在投资中的应用",
+      "道德标准与投资品质同样重要",
+      "长期理性思考优于市场噪音"
+    ],
+    "masterpieces": [
+      {
+        "title": "查理·芒格传",
+        "type": "书",
+        "url": null
+      },
+      {
+        "title": "伯克希尔年度股东大会发言",
+        "type": "视频",
+        "url": null
+      }
+    ],
+    "tags": ["价值投资", "理性思维", "长期思维"]
+  },
+  {
+    "id": "mb_001",
+    "name": "Michael Burry",
+    "nameEn": "Michael Burry",
+    "region": "国外",
+    "type": "价值投资",
+    "bio": "《大空头》主人公原型，对冲基金经理，以准确预测市场危机和异市场机会著称",
+    "twitter": null,
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "深入数据挖掘找出被低估资产",
+      "对市场非理性行为的深刻洞察",
+      "敢于做出与主流相反的投资决策"
+    ],
+    "masterpieces": [
+      {
+        "title": "大空头",
+        "type": "书",
+        "url": null
+      }
+    ],
+    "tags": ["价值投资", "风险管理", "反向投资"]
+  },
+  {
+    "id": "rd_001",
+    "name": "Ray Dalio",
+    "nameEn": "Ray Dalio",
+    "region": "国外",
+    "type": "投资大师",
+    "bio": "桥水基金创始人，全球最大对冲基金之一的创办者，宏观投资策略大师，2026年活跃于Twitter/X",
+    "twitter": "https://twitter.com/RayDalio",
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "宏观经济周期与资产配置关键关系",
+      "用AI和数据驱动投资决策，减少人为偏差",
+      "全天候投资组合配置理念"
+    ],
+    "masterpieces": [
+      {
+        "title": "原则",
+        "type": "书",
+        "url": null
+      },
+      {
+        "title": "一切都是关于价值交换",
+        "type": "文章",
+        "url": null
+      }
+    ],
+    "tags": ["宏观分析", "资产配置", "系统化投资"]
+  },
+  {
+    "id": "hm_001",
+    "name": "Howard Marks",
+    "nameEn": "Howard Marks",
+    "region": "国外",
+    "type": "价值投资",
+    "bio": "橡树资本管理公司联合创始人，以其深度投资备忘录著称，专注困境债务和价值投资",
+    "twitter": null,
+    "youtube": null,
+    "blog": "https://www.oaktreecapital.com/insights",
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "风险管理比选股更重要",
+      "低估价值投资的市场心理学",
+      "长期投资中的市场周期理解"
+    ],
+    "masterpieces": [
+      {
+        "title": "最重要的是什么",
+        "type": "书",
+        "url": null
+      },
+      {
+        "title": "Howard Marks的投资备忘录",
+        "type": "文章",
+        "url": "https://www.oaktreecapital.com/insights"
+      }
+    ],
+    "tags": ["价值投资", "风险管理", "困境投资"]
+  },
+  {
+    "id": "js_001",
+    "name": "Jeremy Siegel",
+    "nameEn": "Jeremy Siegel",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "沃顿商学院金融学荣誉教授，《股市长期投资策略》作者，金融教育与市场分析专家",
+    "twitter": null,
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "长期股票收益超过债券和黄金",
+      "美股历史数据支持长期投资",
+      "通胀对股票回报的长期影响分析"
+    ],
+    "masterpieces": [
+      {
+        "title": "股市长期投资策略",
+        "type": "书",
+        "url": null
+      }
+    ],
+    "tags": ["宏观分析", "长期投资", "金融教育"]
+  },
+  {
+    "id": "jc_001",
+    "name": "Jim Cramer",
+    "nameEn": "Jim Cramer",
+    "region": "国外",
+    "type": "财经媒体",
+    "bio": "CNBC《疯狂金钱》节目主持人，知名财经媒体人，活跃于Twitter/X进行市场评论",
+    "twitter": "https://twitter.com/jimcramer",
+    "youtube": "https://www.cnbc.com",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "快速反应市场新闻与板块轮动",
+      "重视媒体在投资传播中的作用",
+      "个股选择与市场时机的组合"
+    ],
+    "masterpieces": [
+      {
+        "title": "疯狂金钱（TV节目）",
+        "type": "视频",
+        "url": "https://www.cnbc.com/mad-money"
+      }
+    ],
+    "tags": ["财经媒体", "快速交易", "个股分析"]
+  },
+  {
+    "id": "cw_001",
+    "name": "Cathie Wood",
+    "nameEn": "Cathie Wood",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "ARK投资管理公司创始人兼首席投资官，专注破坏性创新与颠覆性技术投资",
+    "twitter": "https://twitter.com/ARKInvest",
+    "youtube": "https://www.youtube.com/@ARKInvest2015",
+    "blog": "https://ark-invest.com",
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "专注破坏性创新技术投资",
+      "深度研究报告《Big Ideas》驱动投资",
+      "AI、区块链、新能源等前沿赛道关注"
+    ],
+    "masterpieces": [
+      {
+        "title": "ARK Big Ideas 2026年报告",
+        "type": "文章",
+        "url": "https://ark-invest.com"
+      },
+      {
+        "title": "ARK投资YouTube视频",
+        "type": "视频",
+        "url": "https://www.youtube.com/@ARKInvest2015"
+      }
+    ],
+    "tags": ["创新投资", "宏观分析", "破坏性技术"]
+  },
+  {
+    "id": "pl_001",
+    "name": "Peter Lynch",
+    "nameEn": "Peter Lynch",
+    "region": "国外",
+    "type": "投资大师",
+    "bio": "美国著名投资家，富达麦哲伦基金前经理，年均收益率29.2%创造投资奇迹",
+    "twitter": null,
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "投资于你懂的公司与行业",
+      "长期投资与组合多元化",
+      "基本面分析优于技术面预测"
+    ],
+    "masterpieces": [
+      {
+        "title": "彼得林奇的成功投资",
+        "type": "书",
+        "url": null
+      },
+      {
+        "title": "战胜华尔街",
+        "type": "书",
+        "url": null
+      }
+    ],
+    "tags": ["价值投资", "长期持有", "基本面分析"]
+  },
+  {
+    "id": "ba_001",
+    "name": "Bill Ackman",
+    "nameEn": "Bill Ackman",
+    "region": "国外",
+    "type": "价值投资",
+    "bio": "潘兴广场资本管理公司创始人，著名激进型投资者，活跃于Twitter/X发表市场观点",
+    "twitter": "https://twitter.com/BillAckman",
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "激进型股东维权改善公司治理",
+      "深度研究发现被低估投资机会",
+      "对经济周期与市场宏观判断"
+    ],
+    "masterpieces": [
+      {
+        "title": "潘兴广场投资报告",
+        "type": "文章",
+        "url": "https://www.pershingsquare.com"
+      }
+    ],
+    "tags": ["价值投资", "激进投资", "公司治理"]
+  },
+  {
+    "id": "mc_001",
+    "name": "Mark Cuban",
+    "nameEn": "Mark Cuban",
+    "region": "国外",
+    "type": "宏观分析",
+    "bio": "美国知名商人和投资者，卡罗来纳黑豹队老板，800万粉丝活跃于Twitter分享投资和商业见解",
+    "twitter": "https://twitter.com/mcuban",
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "关注创新企业与科技趋势",
+      "商业直觉与数据分析相结合",
+      "透视经济周期与行业变革"
+    ],
+    "masterpieces": [
+      {
+        "title": "如何赚到你的第一个百万",
+        "type": "书",
+        "url": null
+      }
+    ],
+    "tags": ["宏观分析", "创新投资", "商业评论"]
+  },
+  {
+    "id": "mg_001",
+    "name": "Mario Gabelli",
+    "nameEn": "Mario Gabelli",
+    "region": "国外",
+    "type": "价值投资",
+    "bio": "Gabelli资产管理公司创始人，自1977年起践行价值投资，31000+粉丝活跃于Twitter",
+    "twitter": "https://twitter.com/MarioGabelli",
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "格雷厄姆-道德和巴菲特价值投资理念结合",
+      "系统性价值发现与选股",
+      "长期价值创造优于短期收益"
+    ],
+    "masterpieces": [
+      {
+        "title": "Gabelli资产管理研究报告",
+        "type": "文章",
+        "url": null
+      }
+    ],
+    "tags": ["价值投资", "基本面分析", "长期投资"]
+  },
+  {
+    "id": "ldx_001",
+    "name": "李大霄",
+    "nameEn": "Li Daxiao",
+    "region": "国内",
+    "type": "财经媒体",
+    "bio": "英大证券首席经济学家，知名股票评论员，以\"钻石底\"\"地球顶\"等概念著称，活跃于微博",
+    "twitter": null,
+    "youtube": null,
+    "blog": null,
+    "weibo": "https://weibo.com/u/2166280984",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "创造性的市场底部和顶部判断",
+      "做好人买好股得好报的价值投资主张",
+      "快速反应市场流动性与情绪变化"
+    ],
+    "masterpieces": [
+      {
+        "title": "李大霄微博市场评论与分析",
+        "type": "文章",
+        "url": "https://weibo.com/u/2166280984"
+      }
+    ],
+    "tags": ["财经媒体", "市场分析", "价值投资"]
+  },
+  {
+    "id": "db_001",
+    "name": "但斌",
+    "nameEn": "Dan Bin",
+    "region": "国内",
+    "type": "价值投资",
+    "bio": "东方港湾投资管理董事长，中国价值投资践行者，30年投资经验，2026年仍在微博活跃发言",
+    "twitter": null,
+    "youtube": null,
+    "blog": null,
+    "weibo": "https://weibo.com/danbin168",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "发掘杰出企业并长期持有",
+      "看好AI是未来十年超级牛市",
+      "消费、互联网、科技龙头重仓投资"
+    ],
+    "masterpieces": [
+      {
+        "title": "但斌2026十大预言",
+        "type": "文章",
+        "url": "https://weibo.com/danbin168"
+      },
+      {
+        "title": "东方港湾投资报告",
+        "type": "文章",
+        "url": null
+      }
+    ],
+    "tags": ["价值投资", "长期持有", "AI投资"]
+  },
+  {
+    "id": "zl_001",
+    "name": "张磊",
+    "nameEn": "Zhang Lei",
+    "region": "国内",
+    "type": "价值投资",
+    "bio": "高瓴资本创始人兼CEO，当代中国价值投资领域代表人物，长期结构性价值投资倡导者",
+    "twitter": null,
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "长期结构性价值投资理念",
+      "寻找改变产业格局的企业",
+      "从一级市场到公开市场的投资纵深"
+    ],
+    "masterpieces": [
+      {
+        "title": "价值投资在中国",
+        "type": "文章",
+        "url": null
+      }
+    ],
+    "tags": ["价值投资", "长期投资", "产业研究"]
+  },
+  {
+    "id": "qgl_001",
+    "name": "邱国鹭",
+    "nameEn": "Qiu Guolu",
+    "region": "国内",
+    "type": "价值投资",
+    "bio": "高毅资产董事长兼CEO，知名投资人，《投资中最简单的事》作者，价值投资倡导者",
+    "twitter": null,
+    "youtube": null,
+    "blog": null,
+    "weibo": "https://weibo.com/qiuguolu",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "投资中最简单的事：好行业、好公司、好价格",
+      "逆向投资与反复验证",
+      "以生动简洁的语言阐述价值投资"
+    ],
+    "masterpieces": [
+      {
+        "title": "投资中最简单的事",
+        "type": "书",
+        "url": null
+      },
+      {
+        "title": "邱国鹭微博分享与投资观察",
+        "type": "文章",
+        "url": "https://weibo.com/qiuguolu"
+      }
+    ],
+    "tags": ["价值投资", "逆向投资", "基本面分析"]
+  },
+  {
+    "id": "fsw_001",
+    "name": "方三文",
+    "nameEn": "Fang Sanwen",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "雪球投资社区创始人兼CEO，前媒体人，建立中国最大投资社区，涵盖A股、港股、美股、基金等",
+    "twitter": null,
+    "youtube": null,
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "创建投资者交流互动社区",
+      "民主化投资数据与研究获取",
+      "推动个人投资者教育与知识共享"
+    ],
+    "masterpieces": [
+      {
+        "title": "雪球投资社区",
+        "type": "网站",
+        "url": "https://xueqiu.com"
+      }
+    ],
+    "tags": ["博主UP主", "投资社区", "美股基金"]
+  },
+  {
+    "id": "zxh_001",
+    "name": "朱啸虎",
+    "nameEn": "Zhu Xiaohu",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "金沙江创业投资基金主管合伙人，互联网投资界活跃人物，在微博积极评论美股与全球资本市场",
+    "twitter": null,
+    "youtube": null,
+    "blog": null,
+    "weibo": "https://weibo.com/zhu_xiaohu",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "把握互联网与新媒体投资机会",
+      "看清全球资本市场的反向指标",
+      "科技创新与商业化价值的判断"
+    ],
+    "masterpieces": [
+      {
+        "title": "朱啸虎微博评论与市场观点",
+        "type": "文章",
+        "url": "https://weibo.com/zhu_xiaohu"
+      }
+    ],
+    "tags": ["博主UP主", "互联网投资", "全球市场"]
+  },
+  {
+    "id": "ll_001",
+    "name": "老李玩钱",
+    "nameEn": "Old Li Plays Money",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "YouTube频道，336K+订阅者，发布美股市场分析、个股选择、投资策略等内容",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@老李玩钱",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "深度美股市场分析和个股研究",
+      "投资策略分享与市场评论",
+      "帮助投资者理解美股运作机制"
+    ],
+    "masterpieces": [
+      {
+        "title": "老李玩钱YouTube频道美股分析视频",
+        "type": "视频",
+        "url": "https://www.youtube.com/@老李玩钱"
+      }
+    ],
+    "tags": ["博主UP主", "美股分析", "个股选择"]
+  },
+  {
+    "id": "mgs_001",
+    "name": "美股研究社",
+    "nameEn": "US Stock Research Society",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "微信公众号（meigushe）与YouTube频道，48K+订阅者，专注美股上市公司深度报道与投资分析",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@美股研究社",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": "meigushe",
+    "keyViews": [
+      "美股上市公司基本面深度研究",
+      "财报分析与盈利预测",
+      "投资决策支持与知识普及"
+    ],
+    "masterpieces": [
+      {
+        "title": "美股研究社公众号文章与研究报告",
+        "type": "文章",
+        "url": "https://www.youtube.com/@美股研究社"
+      }
+    ],
+    "tags": ["博主UP主", "美股研究", "基本面分析"]
+  },
+  {
+    "id": "sw_001",
+    "name": "骚Will搞美股",
+    "nameEn": "Sao Will US Stock",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "YouTube频道，发布美股趋势分析和期权交易策略相关内容，活跃于2026年",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@骚Will搞美股",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "美股技术分析与趋势判断",
+      "期权交易策略教学",
+      "市场情绪与资金流向分析"
+    ],
+    "masterpieces": [
+      {
+        "title": "骚Will美股趋势分析与期权视频",
+        "type": "视频",
+        "url": "https://www.youtube.com/@骚Will搞美股"
+      }
+    ],
+    "tags": ["博主UP主", "技术分析", "期权交易"]
+  },
+  {
+    "id": "hg_001",
+    "name": "猴哥财经",
+    "nameEn": "Monkey Brother Finance",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "YouTube频道，发布美股投资和股票分析内容，为投资者提供2026年美股重磅利好分析",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@猴哥财经",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "2026年美股市场前瞻与利好事件分析",
+      "个股研究与投资建议",
+      "美股市场周期与板块轮动"
+    ],
+    "masterpieces": [
+      {
+        "title": "2026美股重磅利好分析视频",
+        "type": "视频",
+        "url": "https://www.youtube.com/@猴哥财经"
+      }
+    ],
+    "tags": ["博主UP主", "美股分析", "市场前瞻"]
+  },
+  {
+    "id": "cf_001",
+    "name": "晨风加糖",
+    "nameEn": "Morning Wind with Sugar",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "YouTube和Twitter活跃的美股投资博主，发布美股投资相关视频和评论，提供社区交流",
+    "twitter": "https://twitter.com/morningandsugar",
+    "youtube": "https://www.youtube.com/@晨风加糖",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "美股投资基础知识与实战经验",
+      "个人投资心路历程分享",
+      "社区互动与粉丝交流"
+    ],
+    "masterpieces": [
+      {
+        "title": "晨风加糖美股投资视频",
+        "type": "视频",
+        "url": "https://www.youtube.com/@晨风加糖"
+      }
+    ],
+    "tags": ["博主UP主", "美股投资", "社区互动"]
+  },
+  {
+    "id": "vgf_001",
+    "name": "视野环球财经（Rhino）",
+    "nameEn": "Vision Global Finance (Rhino)",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "YouTube频道29.9万订阅者，每日更新美股分析，专注公司基本面与技术面结合分析，价值投资风格",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@RhinoFinance",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "价值投资风格，多次成功预判美股走势",
+      "个股财报分析与公司基本面研究",
+      "技术分析与基本面分析相结合"
+    ],
+    "masterpieces": [
+      {
+        "title": "视野环球财经美股每日分析视频",
+        "type": "视频",
+        "url": "https://www.youtube.com/@RhinoFinance"
+      }
+    ],
+    "tags": ["博主UP主", "价值投资", "基本面分析"]
+  },
+  {
+    "id": "ksy_001",
+    "name": "Kevin策略研究",
+    "nameEn": "Kevin Strategy Research",
+    "region": "国内",
+    "type": "宏观分析",
+    "bio": "中金公司海外策略分析师刘刚的YouTube频道，研究美股及全球权益市场、美债、美国房产等",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@Kevin策略研究",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "宏观经济动态深入解读",
+      "美股与全球资产市场关联分析",
+      "海外权益市场机制与投资逻辑"
+    ],
+    "masterpieces": [
+      {
+        "title": "2026年全球市场展望",
+        "type": "视频",
+        "url": "https://www.youtube.com/@Kevin策略研究"
+      }
+    ],
+    "tags": ["宏观分析", "海外市场", "战略研究"]
+  },
+  {
+    "id": "mxyz_001",
+    "name": "Money XYZ",
+    "nameEn": "Money XYZ",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "YouTube频道，分享美股投资见解和个人财务管理，内容通俗易懂适合投资小白",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@MoneyXYZ",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "美股投资基础知识普及",
+      "个人财务管理与投资计划",
+      "通俗易懂的投资教育"
+    ],
+    "masterpieces": [
+      {
+        "title": "Money XYZ美股投资视频",
+        "type": "视频",
+        "url": "https://www.youtube.com/@MoneyXYZ"
+      }
+    ],
+    "tags": ["博主UP主", "投资教育", "财务管理"]
+  },
+  {
+    "id": "mtkx_001",
+    "name": "美投侃新闻",
+    "nameEn": "US Investment News Commentary",
+    "region": "国内",
+    "type": "财经媒体",
+    "bio": "YouTube频道，评论美股市场新闻，为投资者评测提供基于事实的分析和评论",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@美投侃新闻",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "实事求是的美股市场评论",
+      "新闻事件对股市影响分析",
+      "投资者情绪与市场交互关系"
+    ],
+    "masterpieces": [
+      {
+        "title": "美投侃新闻视频评论",
+        "type": "视频",
+        "url": "https://www.youtube.com/@美投侃新闻"
+      }
+    ],
+    "tags": ["财经媒体", "新闻评论", "市场分析"]
+  },
+  {
+    "id": "hxcj_001",
+    "name": "火星财经",
+    "nameEn": "Mars Finance",
+    "region": "国内",
+    "type": "财经媒体",
+    "bio": "专业财经资讯平台，提供实时美股行情、深度分析和市场评论，2026年持续活跃",
+    "twitter": null,
+    "youtube": null,
+    "blog": "https://www.marsbit.co",
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "实时美股市场快讯与分析",
+      "地缘政治对美股的影响评估",
+      "科技股走势与行业轮动分析"
+    ],
+    "masterpieces": [
+      {
+        "title": "火星财经美股深度分析文章",
+        "type": "文章",
+        "url": "https://www.marsbit.co"
+      }
+    ],
+    "tags": ["财经媒体", "实时资讯", "市场分析"]
+  }
+]
