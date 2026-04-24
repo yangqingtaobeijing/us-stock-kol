@@ -24,7 +24,11 @@
         "url": "https://www.berkshirehathaway.com"
       }
     ],
-    "tags": ["价值投资", "长期持有", "基本面分析"]
+    "tags": [
+      "价值投资",
+      "长期持有",
+      "基本面分析"
+    ]
   },
   {
     "id": "cm_001",
@@ -56,7 +60,11 @@
         "url": null
       }
     ],
-    "tags": ["价值投资", "理性思维", "长期思维"]
+    "tags": [
+      "价值投资",
+      "理性思维",
+      "长期思维"
+    ]
   },
   {
     "id": "mb_001",
@@ -83,7 +91,11 @@
         "url": null
       }
     ],
-    "tags": ["价值投资", "风险管理", "反向投资"]
+    "tags": [
+      "价值投资",
+      "风险管理",
+      "反向投资"
+    ]
   },
   {
     "id": "rd_001",
@@ -115,7 +127,11 @@
         "url": null
       }
     ],
-    "tags": ["宏观分析", "资产配置", "系统化投资"]
+    "tags": [
+      "宏观分析",
+      "资产配置",
+      "系统化投资"
+    ]
   },
   {
     "id": "hm_001",
@@ -147,7 +163,11 @@
         "url": "https://www.oaktreecapital.com/insights"
       }
     ],
-    "tags": ["价值投资", "风险管理", "困境投资"]
+    "tags": [
+      "价值投资",
+      "风险管理",
+      "困境投资"
+    ]
   },
   {
     "id": "js_001",
@@ -174,7 +194,11 @@
         "url": null
       }
     ],
-    "tags": ["宏观分析", "长期投资", "金融教育"]
+    "tags": [
+      "宏观分析",
+      "长期投资",
+      "金融教育"
+    ]
   },
   {
     "id": "jc_001",
@@ -201,7 +225,11 @@
         "url": "https://www.cnbc.com/mad-money"
       }
     ],
-    "tags": ["财经媒体", "快速交易", "个股分析"]
+    "tags": [
+      "财经媒体",
+      "快速交易",
+      "个股分析"
+    ]
   },
   {
     "id": "cw_001",
@@ -233,7 +261,11 @@
         "url": "https://www.youtube.com/@ARKInvest2015"
       }
     ],
-    "tags": ["创新投资", "宏观分析", "破坏性技术"]
+    "tags": [
+      "创新投资",
+      "宏观分析",
+      "破坏性技术"
+    ]
   },
   {
     "id": "pl_001",
@@ -265,7 +297,11 @@
         "url": null
       }
     ],
-    "tags": ["价值投资", "长期持有", "基本面分析"]
+    "tags": [
+      "价值投资",
+      "长期持有",
+      "基本面分析"
+    ]
   },
   {
     "id": "ba_001",
@@ -292,7 +328,11 @@
         "url": "https://www.pershingsquare.com"
       }
     ],
-    "tags": ["价值投资", "激进投资", "公司治理"]
+    "tags": [
+      "价值投资",
+      "激进投资",
+      "公司治理"
+    ]
   },
   {
     "id": "mc_001",
@@ -319,7 +359,11 @@
         "url": null
       }
     ],
-    "tags": ["宏观分析", "创新投资", "商业评论"]
+    "tags": [
+      "宏观分析",
+      "创新投资",
+      "商业评论"
+    ]
   },
   {
     "id": "mg_001",
@@ -346,7 +390,11 @@
         "url": null
       }
     ],
-    "tags": ["价值投资", "基本面分析", "长期投资"]
+    "tags": [
+      "价值投资",
+      "基本面分析",
+      "长期投资"
+    ]
   },
   {
     "id": "ldx_001",
@@ -373,7 +421,11 @@
         "url": "https://weibo.com/u/2166280984"
       }
     ],
-    "tags": ["财经媒体", "市场分析", "价值投资"]
+    "tags": [
+      "财经媒体",
+      "市场分析",
+      "价值投资"
+    ]
   },
   {
     "id": "db_001",
@@ -405,7 +457,11 @@
         "url": null
       }
     ],
-    "tags": ["价值投资", "长期持有", "AI投资"]
+    "tags": [
+      "价值投资",
+      "长期持有",
+      "AI投资"
+    ]
   },
   {
     "id": "zl_001",
@@ -432,7 +488,11 @@
         "url": null
       }
     ],
-    "tags": ["价值投资", "长期投资", "产业研究"]
+    "tags": [
+      "价值投资",
+      "长期投资",
+      "产业研究"
+    ]
   },
   {
     "id": "qgl_001",
@@ -464,7 +524,11 @@
         "url": "https://weibo.com/qiuguolu"
       }
     ],
-    "tags": ["价值投资", "逆向投资", "基本面分析"]
+    "tags": [
+      "价值投资",
+      "逆向投资",
+      "基本面分析"
+    ]
   },
   {
     "id": "fsw_001",
@@ -491,7 +555,11 @@
         "url": "https://xueqiu.com"
       }
     ],
-    "tags": ["博主UP主", "投资社区", "美股基金"]
+    "tags": [
+      "博主UP主",
+      "投资社区",
+      "美股基金"
+    ]
   },
   {
     "id": "zxh_001",
@@ -518,7 +586,11 @@
         "url": "https://weibo.com/zhu_xiaohu"
       }
     ],
-    "tags": ["博主UP主", "互联网投资", "全球市场"]
+    "tags": [
+      "博主UP主",
+      "互联网投资",
+      "全球市场"
+    ]
   },
   {
     "id": "ll_001",
@@ -545,7 +617,11 @@
         "url": "https://www.youtube.com/@老李玩钱"
       }
     ],
-    "tags": ["博主UP主", "美股分析", "个股选择"]
+    "tags": [
+      "博主UP主",
+      "美股分析",
+      "个股选择"
+    ]
   },
   {
     "id": "mgs_001",
@@ -572,7 +648,11 @@
         "url": "https://www.youtube.com/@美股研究社"
       }
     ],
-    "tags": ["博主UP主", "美股研究", "基本面分析"]
+    "tags": [
+      "博主UP主",
+      "美股研究",
+      "基本面分析"
+    ]
   },
   {
     "id": "sw_001",
@@ -599,7 +679,11 @@
         "url": "https://www.youtube.com/@骚Will搞美股"
       }
     ],
-    "tags": ["博主UP主", "技术分析", "期权交易"]
+    "tags": [
+      "博主UP主",
+      "技术分析",
+      "期权交易"
+    ]
   },
   {
     "id": "hg_001",
@@ -626,7 +710,11 @@
         "url": "https://www.youtube.com/@猴哥财经"
       }
     ],
-    "tags": ["博主UP主", "美股分析", "市场前瞻"]
+    "tags": [
+      "博主UP主",
+      "美股分析",
+      "市场前瞻"
+    ]
   },
   {
     "id": "cf_001",
@@ -653,7 +741,11 @@
         "url": "https://www.youtube.com/@晨风加糖"
       }
     ],
-    "tags": ["博主UP主", "美股投资", "社区互动"]
+    "tags": [
+      "博主UP主",
+      "美股投资",
+      "社区互动"
+    ]
   },
   {
     "id": "vgf_001",
@@ -680,7 +772,11 @@
         "url": "https://www.youtube.com/@RhinoFinance"
       }
     ],
-    "tags": ["博主UP主", "价值投资", "基本面分析"]
+    "tags": [
+      "博主UP主",
+      "价值投资",
+      "基本面分析"
+    ]
   },
   {
     "id": "ksy_001",
@@ -707,7 +803,11 @@
         "url": "https://www.youtube.com/@Kevin策略研究"
       }
     ],
-    "tags": ["宏观分析", "海外市场", "战略研究"]
+    "tags": [
+      "宏观分析",
+      "海外市场",
+      "战略研究"
+    ]
   },
   {
     "id": "mxyz_001",
@@ -734,7 +834,11 @@
         "url": "https://www.youtube.com/@MoneyXYZ"
       }
     ],
-    "tags": ["博主UP主", "投资教育", "财务管理"]
+    "tags": [
+      "博主UP主",
+      "投资教育",
+      "财务管理"
+    ]
   },
   {
     "id": "mtkx_001",
@@ -761,7 +865,11 @@
         "url": "https://www.youtube.com/@美投侃新闻"
       }
     ],
-    "tags": ["财经媒体", "新闻评论", "市场分析"]
+    "tags": [
+      "财经媒体",
+      "新闻评论",
+      "市场分析"
+    ]
   },
   {
     "id": "hxcj_001",
@@ -788,6 +896,190 @@
         "url": "https://www.marsbit.co"
       }
     ],
-    "tags": ["财经媒体", "实时资讯", "市场分析"]
+    "tags": [
+      "财经媒体",
+      "实时资讯",
+      "市场分析"
+    ]
+  },
+  {
+    "id": "joseph-carlson",
+    "name": "Joseph Carlson",
+    "region": "国外",
+    "type": "博主UP主",
+    "bio": "专注股票投资组合构建和被动收入，强调长期持有优质公司实现财富积累",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@JosephCarlson",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "长期持有优质公司",
+      "股息再投资复利增长",
+      "资产配置稳健为先"
+    ],
+    "masterpieces": [
+      {
+        "title": "Joseph Carlson Show",
+        "type": "YouTube频道",
+        "url": "https://www.youtube.com/@JosephCarlson"
+      }
+    ],
+    "tags": [
+      "被动收入",
+      "长期投资",
+      "股息"
+    ]
+  },
+  {
+    "id": "andrei-jikh",
+    "name": "Andrei Jikh",
+    "region": "国外",
+    "type": "博主UP主",
+    "bio": "以轻松方式介绍股票投资、理财和被动收入，结合案例讲解复利与资产配置",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@AndreiJikh",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "复利是最强投资武器",
+      "被动收入实现财务自由",
+      "适合新手的资产配置方法"
+    ],
+    "masterpieces": [
+      {
+        "title": "Andrei Jikh YouTube频道",
+        "type": "YouTube频道",
+        "url": "https://www.youtube.com/@AndreiJikh"
+      }
+    ],
+    "tags": [
+      "理财入门",
+      "被动收入",
+      "复利"
+    ]
+  },
+  {
+    "id": "jeremy-lefebvre",
+    "name": "Jeremy Lefebvre",
+    "region": "国外",
+    "type": "博主UP主",
+    "bio": "专注股票投资与财富增长，通俗分享选股方法和长期投资理念",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@jeremylefebvr",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "理性长期投资",
+      "通俗易懂的选股方法",
+      "财富积累靠时间复利"
+    ],
+    "masterpieces": [
+      {
+        "title": "Jeremy Lefebvre YouTube频道",
+        "type": "YouTube频道",
+        "url": "https://www.youtube.com/@jeremylefebvr"
+      }
+    ],
+    "tags": [
+      "选股",
+      "长期投资",
+      "入门"
+    ]
+  },
+  {
+    "id": "nana-meigus",
+    "name": "NaNa说美股",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "通俗拆解金融概念，少用专业术语，帮助新手建立美股投资基本框架",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@NaNaShuoMeiGu",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "降低美股入门门槛",
+      "建立系统投资框架",
+      "用通俗语言解读复杂金融概念"
+    ],
+    "masterpieces": [
+      {
+        "title": "NaNa说美股YouTube频道",
+        "type": "YouTube频道",
+        "url": "https://www.youtube.com/@NaNaShuoMeiGu"
+      }
+    ],
+    "tags": [
+      "入门",
+      "美股基础",
+      "新手友好"
+    ]
+  },
+  {
+    "id": "xiao-lin-shuo",
+    "name": "小Lin说",
+    "region": "国内",
+    "type": "财经媒体",
+    "bio": "曾任摩根大通投行分析师，通俗讲解全球经济、金融趋势，覆盖宏观、美联储、黄金等",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@xiao_lin_shuo",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "宏观经济驱动资产价格",
+      "美联储政策是核心变量",
+      "全球流动性决定市场趋势"
+    ],
+    "masterpieces": [
+      {
+        "title": "小Lin说YouTube频道",
+        "type": "YouTube频道",
+        "url": "https://www.youtube.com/@xiao_lin_shuo"
+      }
+    ],
+    "tags": [
+      "宏观经济",
+      "美联储",
+      "投行背景"
+    ]
+  },
+  {
+    "id": "meitou-meigus",
+    "name": "美投讲美股",
+    "region": "国内",
+    "type": "博主UP主",
+    "bio": "侧重美股热点解读和个股基本面分析，适合深入研究公司基本面的投资者",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@MeiTouJun",
+    "blog": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "基本面分析优于追热点",
+      "长期持有优质美股公司",
+      "个股深度研究是核心竞争力"
+    ],
+    "masterpieces": [
+      {
+        "title": "美投讲美股YouTube频道",
+        "type": "YouTube频道",
+        "url": "https://www.youtube.com/@MeiTouJun"
+      }
+    ],
+    "tags": [
+      "基本面",
+      "个股研究",
+      "美股"
+    ]
   }
 ]
